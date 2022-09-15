@@ -1,2 +1,3 @@
 # Hash-Tables-and-Maps
-implementations of hash sets and maps
+An implementation of the SimpleUSet(simple unordered set) interface that represents a set as a hash table with chaining. 
+Also, an implemenation of the SimpleMap interface called HashSimpleMap.java.
